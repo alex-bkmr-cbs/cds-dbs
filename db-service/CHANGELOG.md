@@ -4,6 +4,14 @@
 - The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.0.2](https://github.com/cap-js/cds-dbs/compare/db-service-v3.0.1...db-service-v3.0.2) (2026-08-06)
+
+
+### Fixed
+
+* don't throw when releasing/destroying a resource that's no longer in the pool ([#1696](https://github.com/cap-js/cds-dbs/issues/1696)) ([5d3b277](https://github.com/cap-js/cds-dbs/commit/5d3b277a1cf7cac02e41f2f24975a8e9473e5b5e))
+* pql groupby path expression ([#1700](https://github.com/cap-js/cds-dbs/issues/1700)) ([82b5e03](https://github.com/cap-js/cds-dbs/commit/82b5e0385e680321f30c352f0f78ade6d25259a6))
+
 ## [3.0.1](https://github.com/cap-js/cds-dbs/compare/db-service-v3.0.0...db-service-v3.0.1) (2026-06-29)
 
 

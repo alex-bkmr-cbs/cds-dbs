@@ -4,6 +4,20 @@
 - The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.0.3](https://github.com/cap-js/cds-dbs/compare/hana-v3.0.2...hana-v3.0.3) (2026-08-06)
+
+
+### Fixed
+
+* **hana:** propagate error codes ([#1695](https://github.com/cap-js/cds-dbs/issues/1695)) ([f0d2fa1](https://github.com/cap-js/cds-dbs/commit/f0d2fa10b6530b36811028399a3f4a96faf2adc9))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cap-js/db-service bumped from ^3.0.1 to ^3.0.2
+
 ## [3.0.2](https://github.com/cap-js/cds-dbs/compare/hana-v3.0.1...hana-v3.0.2) (2026-07-27)
 
 

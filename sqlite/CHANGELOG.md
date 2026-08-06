@@ -4,6 +4,20 @@
 - The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.1.0](https://github.com/cap-js/cds-dbs/compare/sqlite-v3.0.2...sqlite-v3.1.0) (2026-08-06)
+
+
+### Added
+
+* Add support for `cds.Vector` on SQLite and Postgres ([#1676](https://github.com/cap-js/cds-dbs/issues/1676)) ([f0d2203](https://github.com/cap-js/cds-dbs/commit/f0d220324e8a1c7489966545000476bfd33f6b17))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cap-js/db-service bumped from ^3.0.1 to ^3.0.2
+
 ## [3.0.2](https://github.com/cap-js/cds-dbs/compare/sqlite-v3.0.1...sqlite-v3.0.2) (2026-07-01)
 
 
